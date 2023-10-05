@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color:white;
+}
+div{
+    text-align: center;
+    color:white;
+    margin-top: 25%;
+    width:50%;
+    margin-left:25%;
+    font-family: serif;
+}
+.image{
+    width:100%;
+    border: 5px solid white;
+}
+h1{
+    font-size: 3rem;
+}
